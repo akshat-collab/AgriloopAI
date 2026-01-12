@@ -1,0 +1,4 @@
+# AgriLoop AI - Streamlit Version
+streamlit>=1.32.0
+pandas>=2.2.0
+plotly>=5.19.0
